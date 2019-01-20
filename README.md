@@ -1,2 +1,2 @@
 # acecombat7
-メモ
+ACE COMBAT 7 のメモ。
